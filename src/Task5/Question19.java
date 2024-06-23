@@ -23,6 +23,6 @@ public class Question19 {
     }
 
 }
-/* TEKRAR BAKICAM YAPAMADIM*/
+/* TEKRAR BAKICAM YAPAMADIM */
 /* 19. Bir ArrayList oluşturun ve içine 20 rastgele tam sayı ekleyin. Kullanıcıdan bir sayı alın ve
  bu sayının listedeki elemanlarla toplamının 100 olduğu tüm çiftleri bulun ve ekrana yazdırın.*/
